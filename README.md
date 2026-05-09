@@ -25,14 +25,13 @@ Currently: 🌱
 
 I enjoy building small-scope games and participating in game jams.
 
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://https://jh318.itch.io/)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jh318.itch.io/)
 
-### Featured Project
+### Railstation
 
-RAILSTATION
 Railstation is a cinematic action-packed robot rail shooter experience made in Godot. Survive hectic back-to-back encounters against robot enemies! Will you make the last train home?
 
-<iframe frameborder="0" src="https://itch.io/embed/2749808?bg_color=d4d4d4&amp;fg_color=525252&amp;link_color=e26700&amp;border_color=c84d00" width="552" height="167"><a href="https://jh318.itch.io/railstation">Railstation by jh318</a></iframe>
+[Play Railstation on itch.io](https://jh318.itch.io/railstation)
 
 ## Boot.dev 🐻
 <p align="left">
